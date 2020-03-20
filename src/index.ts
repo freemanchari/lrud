@@ -269,9 +269,9 @@ export class Lrud {
       if (unregisterOptions.forceRefocus) {
         this.recalculateFocus(nodeClone)
       } else {
-        this.currentFocusNode = undefined
-        this.currentFocusNodeId = undefined
-        this.currentFocusNodeIndex = undefined
+        // this.currentFocusNode = undefined
+        // this.currentFocusNodeId = undefined
+        // this.currentFocusNodeIndex = undefined
       }
     }
 
