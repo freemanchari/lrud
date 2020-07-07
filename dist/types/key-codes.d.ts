@@ -1,0 +1,41 @@
+export declare const KeyCodes: {
+    map: {
+        LEFT: string;
+        RIGHT: string;
+        UP: string;
+        DOWN: string;
+        ENTER: string;
+    };
+    codes: {
+        4: string;
+        21: string;
+        37: string;
+        214: string;
+        205: string;
+        218: string;
+        5: string;
+        22: string;
+        39: string;
+        213: string;
+        206: string;
+        217: string;
+        29460: string;
+        19: string;
+        38: string;
+        211: string;
+        203: string;
+        215: string;
+        29461: string;
+        20: string;
+        40: string;
+        212: string;
+        204: string;
+        216: string;
+        29443: string;
+        13: string;
+        67: string;
+        32: string;
+        23: string;
+        195: string;
+    };
+};
